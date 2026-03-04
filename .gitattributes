@@ -1,0 +1,7 @@
+# Exclude old HTML prototype from GitHub language statistics
+wrenchvent.html linguist-vendored
+wrenchvent.html linguist-documentation
+
+# Mark JavaScript/React files correctly
+*.jsx linguist-language=JavaScript
+*.js linguist-language=JavaScript
