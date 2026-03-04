@@ -9,6 +9,9 @@
 # Production
 /build
 
+# Old HTML prototype (keep for reference but don't deploy)
+# wrenchvent.html
+
 # Misc
 .DS_Store
 .env
