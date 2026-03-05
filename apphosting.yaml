@@ -1,5 +1,11 @@
 runConfig:
   runCommand: npm start
+
+buildConfig:
+  runtime: nodejs20
+  buildCommand: npm install && npm run build
+  outputDirectory: build
+
 env:
   - variable: NODE_ENV
     value: production
