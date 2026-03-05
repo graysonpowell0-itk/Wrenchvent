@@ -4,10 +4,7 @@
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/node_modules/**",
-      "wrenchvent.html",
-      "src/**",
-      "server.js"
+      "**/node_modules/**"
     ],
     "rewrites": [
       {
