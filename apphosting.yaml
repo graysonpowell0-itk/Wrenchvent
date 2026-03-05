@@ -3,6 +3,7 @@ runConfig:
 
 buildConfig:
   runtime: nodejs20
+  rootDirectory: .
   buildCommand: npm install && npm run build
   outputDirectory: build
 
